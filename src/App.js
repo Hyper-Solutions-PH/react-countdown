@@ -27,7 +27,7 @@ class App extends Component {
 
         <h3 className="title">
           A cost effective systems coming soon on the 9nth of November 2020 UTC
-          time):
+          time
         </h3>
         <Countdown date={`2020-11-09T00:00:00`} />
       </div>
